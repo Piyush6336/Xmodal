@@ -91,7 +91,7 @@ const FormModal = () => {
                 <input type="date" id="dob" required />
               </div>
               
-              <button type="submit" className="submit-btn">
+              <button type="submit" className="submit-button">
                 Submit
               </button>
             </form>
